@@ -1,1 +1,4 @@
-include ':friend_circle_1', ':qupai_2', ':friend_circle_2', ':friend_circle_3'
+include ':friend_circle_1', ':qupai_2', ':friend_circle_2', ':friend_circle_3', ':f_scale_album_4', ':f_pager_view_5'
+include ':f_pager_view_6'
+include ':f_pager_view_7'
+include ':f_scale_album_4_1'

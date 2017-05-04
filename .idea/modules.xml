@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Friend_circle_all.iml" filepath="$PROJECT_DIR$/Friend_circle_all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f_pager_view_5/f_pager_view_5.iml" filepath="$PROJECT_DIR$/f_pager_view_5/f_pager_view_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f_pager_view_6/f_pager_view_6.iml" filepath="$PROJECT_DIR$/f_pager_view_6/f_pager_view_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f_pager_view_7/f_pager_view_7.iml" filepath="$PROJECT_DIR$/f_pager_view_7/f_pager_view_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f_scale_album_4/f_scale_album_4.iml" filepath="$PROJECT_DIR$/f_scale_album_4/f_scale_album_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f_scale_album_4_1/f_scale_album_4_1.iml" filepath="$PROJECT_DIR$/f_scale_album_4_1/f_scale_album_4_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/friend_circle_1/friend_circle_1.iml" filepath="$PROJECT_DIR$/friend_circle_1/friend_circle_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/friend_circle_2/friend_circle_2.iml" filepath="$PROJECT_DIR$/friend_circle_2/friend_circle_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/friend_circle_3/friend_circle_3.iml" filepath="$PROJECT_DIR$/friend_circle_3/friend_circle_3.iml" />
