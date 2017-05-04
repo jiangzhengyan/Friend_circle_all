@@ -12,46 +12,48 @@
  
 # 效果图，单张点击
 
-<img width="333"  src="https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/SingleShow.gif"/>
-
-![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/SingleShow.gif)
+<img width="300"  src="https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/SingleShow.gif"/>
+ 
 # 列表图，单张点击
-![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/ListShow.gif)
+<img width="300"  src="https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/ListShow.gif"/>
+
 # 网格图，单张点击
-![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/GridShow.gif)
+<img width="300"  src="https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/GridShow.gif"/>
+ 
 # 混合图，单张点击
-![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/MixShow.gif)
+<img width="300"  src="https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/MixShow.gif"/>
+
 #  项目 friend_circle_2
 ##带发布视频,趣拍<br />
 
-![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/friend_circle_2.png)
+<img width="300"  src="https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/friend_circle_2.png"/>
 
 # 项目 friend_circle_3
 ##挺好用的<br />
 
-![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/friend_circle_3.png)
+<img width="300"  src="https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/friend_circle_3.png"/>
 
 # 项目 f_scale_album_4
 ##可以当做相册,GridView展示,点击可查看大图<br />
 
-![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/f_album_4.png)
+<img width="300"  src="https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/f_album_4.png"/>
 
 # 项目 f_scale_album_4_1
 ##可以当做相册,GridView展示,点击可查看大图<br />
 
-![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/f_album_4_1.png)
+<img width="300"  src="https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/f_album_4_1.png"/>
 
 # 项目 f_pager_view_5
 ##viewPager  可以具体查看图片<br />
 
-![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/f_pager_view_5.png)
+<img width="300"  src="https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/f_pager_view_5.png"/>
 
 # 项目 f_pager_view_6
 ##viewPager  可以具体查看图片<br />
 
-![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/f_pager_view_6.png)
+<img width="300"  src="https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/f_pager_view_6.png"/>
 
 # 项目 f_pager_view_7
 ##viewPager  可以具体查看图片<br />
 
-![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/f_pager_view_7.png)
+<img width="300"  src="https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/f_pager_view_7.png"/>
