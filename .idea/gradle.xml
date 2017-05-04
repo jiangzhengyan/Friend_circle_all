@@ -9,6 +9,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/friend_circle_1" />
+            <option value="$PROJECT_DIR$/friend_circle_2" />
+            <option value="$PROJECT_DIR$/friend_circle_3" />
+            <option value="$PROJECT_DIR$/qupai_2" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -1,1 +1,1 @@
-include ':friend_circle_1'
+include ':friend_circle_1', ':qupai_2', ':friend_circle_2', ':friend_circle_3'

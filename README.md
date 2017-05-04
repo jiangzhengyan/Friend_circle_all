@@ -1,4 +1,4 @@
-#  friend_circle_1
+#  项目 friend_circle_1
 1.图片浏览放大缩小。<br />
 2.单一图片点击，放大效果，和缩放效果。<br />
 3.列表图片点击，放大效果，和缩放效果。<br />
@@ -14,3 +14,10 @@
 ![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/GridShow.gif)
 # 混合图，单张点击
 ![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/MixShow.gif)
+#  项目 friend_circle_2
+带发布视频,趣拍
+![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/friend_circle_2.png)#
+
+项目 friend_circle_3
+挺好用的
+![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/friend_circle_3.png)
