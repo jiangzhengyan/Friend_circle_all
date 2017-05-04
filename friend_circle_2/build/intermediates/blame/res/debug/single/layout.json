@@ -1,0 +1,622 @@
+[
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_textonly_overlay.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\qupai_textonly_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\layout_progress.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\8d4d211e1fe3c4737457bda41de3072ae8f01f27\\output\\res\\layout\\layout_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\toast_qupai_mv_locked.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\toast_qupai_mv_locked.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\layout_video.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\src\\main\\res\\layout\\layout_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\ab_qupai_video_edit.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\ab_qupai_video_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\tab_widget_qupai_drafts.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\tab_widget_qupai_drafts.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_qupai_video_recorder.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\fragment_qupai_video_recorder.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_header_qupai_import.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\item_header_qupai_import.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_diy_batch.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\balloon_tip_qupai_diy_batch.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\ab_qupai_qupai_import_video.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\ab_qupai_qupai_import_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\coach_mark_qupai_recorder.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\coach_mark_qupai_recorder.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\coach_mark_qupai_diy_scale.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\coach_mark_qupai_diy_scale.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_common_typing_filter.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\qupai_common_typing_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qupai_video_gallery.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\activity_qupai_video_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_diyeffect_content_merge.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\item_qupai_diyeffect_content_merge.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_overlay_more.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\balloon_tip_qupai_overlay_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_row_text_bottom.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\qupai_row_text_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_layout_overlay_example.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\qupai_layout_overlay_example.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_tab_new.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\balloon_tip_qupai_tab_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_audio_mixer_slider.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\qupai_audio_mixer_slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_diy_video.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\balloon_tip_qupai_diy_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\guide_overlay_layout.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\guide_overlay_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_header_qupai_editor_asset_more_short.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\item_header_qupai_editor_asset_more_short.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_row_text_bottom_1.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\qupai_row_text_bottom_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_header_qupai_editor_asset_more_long.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\item_header_qupai_editor_asset_more_long.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_trim_video_thumbnail.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\item_qupai_trim_video_thumbnail.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_common_simple_list_item_1.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\qupai_common_simple_list_item_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\ab_qupai_trim_chooser.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\ab_qupai_trim_chooser.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\import_video_texture_view.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\import_video_texture_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_qupai_video_recorder_webview.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\fragment_qupai_video_recorder_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_horizontalscroll.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\8d4d211e1fe3c4737457bda41de3072ae8f01f27\\output\\res\\layout\\layout_recyclerview_horizontalscroll.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\ab_qupai_draft_chooser.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\ab_qupai_draft_chooser.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_diy_timeline_left.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\balloon_tip_qupai_diy_timeline_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\viewstub_videobody.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\src\\main\\res\\layout\\viewstub_videobody.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_qupai_import_video.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\fragment_qupai_import_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_layout_overlay_font_loading.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\qupai_layout_overlay_font_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_video_draft.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\item_qupai_video_draft.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\toast_qupai_import_duration_limit.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\toast_qupai_import_duration_limit.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qupai_image_crop.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\activity_qupai_image_crop.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_qupai_video_live.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\fragment_qupai_video_live.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qupai_video.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\activity_qupai_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\viewstub_imgbody.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\src\\main\\res\\layout\\viewstub_imgbody.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_diyeffect_chooser.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\item_qupai_diyeffect_chooser.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_editor_asset_addons.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\item_qupai_editor_asset_addons.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\layout_upload.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\src\\main\\res\\layout\\layout_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_editor_asset_short.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\item_qupai_editor_asset_short.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_qupai_recorder_render_progress.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\dlg_qupai_recorder_render_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_circle_item.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\src\\main\\res\\layout\\adapter_circle_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qupai_render_progress.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\activity_qupai_render_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\guide_tip_qupai_dialog.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\guide_tip_qupai_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_gallery_button.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\balloon_tip_qupai_gallery_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_common_overlay_manager_fragment.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\qupai_common_overlay_manager_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_header_qupai_diyeffect_content_merge.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\item_header_qupai_diyeffect_content_merge.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qupai_drafts_video.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\activity_qupai_drafts_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qupai_video_file.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\activity_qupai_video_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_guide_switch.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\balloon_tip_qupai_guide_switch.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_editor_timeline_slider.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\qupai_editor_timeline_slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_center_top.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\balloon_tip_qupai_center_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\viewstub_urlbody.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\src\\main\\res\\layout\\viewstub_urlbody.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_guide_switch_again.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\balloon_tip_qupai_guide_switch_again.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_layout_overlay_unlock.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\qupai_layout_overlay_unlock.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_tab_overlay.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\balloon_tip_qupai_tab_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_header_qupai_editor_diyoverlay_category_more.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\item_header_qupai_editor_diyoverlay_category_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_edit_overlay.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\qupai_edit_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_layout_overlay_font_unlock.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\qupai_layout_overlay_font_unlock.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_editor_asset_long.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\item_qupai_editor_asset_long.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\layout_magic_text.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\src\\main\\res\\layout\\layout_magic_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_gallery.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\item_qupai_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\layout_more_progress.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\8d4d211e1fe3c4737457bda41de3072ae8f01f27\\output\\res\\layout\\layout_more_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_qupai_photo.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\fragment_qupai_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_header_qupai_editor_asset_null_long.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\item_header_qupai_editor_asset_null_long.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\view_more_progress.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\src\\main\\res\\layout\\view_more_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_header_qupai_editor_asset_null_short.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\item_header_qupai_editor_asset_null_short.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_comment.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\src\\main\\res\\layout\\dialog_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imagepager.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\src\\main\\res\\layout\\activity_imagepager.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_header_qupai_diyeffect.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\item_header_qupai_diyeffect.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_qupai_photo_editor.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\fragment_qupai_photo_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_guide_switch_close.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\balloon_tip_qupai_guide_switch_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_verticalscroll.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\8d4d211e1fe3c4737457bda41de3072ae8f01f27\\output\\res\\layout\\layout_recyclerview_verticalscroll.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_center_bottom.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\balloon_tip_qupai_center_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_header_qupai_gallery_video.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\item_header_qupai_gallery_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\head_circle.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\src\\main\\res\\layout\\head_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_qupai_diy_show.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\dlg_qupai_diy_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\quit_confirm_dialog.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\quit_confirm_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\guide_timeline_layout.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\guide_timeline_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_qupai_project_explorer.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\fragment_qupai_project_explorer.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\coach_mark_qupai_trim_bottom.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\coach_mark_qupai_trim_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\coach_mark_qupai_trim_center.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\coach_mark_qupai_trim_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_common_progress_dialog.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\qupai_common_progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_common_alert_dialog_progress.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\qupai_common_alert_dialog_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\social_sns_popupwindow.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\src\\main\\res\\layout\\social_sns_popupwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_qupai_video_editor.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\fragment_qupai_video_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_beautify_skin.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\balloon_tip_qupai_beautify_skin.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_recorder_center_bottom.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\balloon_tip_qupai_recorder_center_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_text_edit_overlay_guide.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\qupai_text_edit_overlay_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qupai_video_trim.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\activity_qupai_video_trim.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_qupai_video_dubbing.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\fragment_qupai_video_dubbing.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_pager_image.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\src\\main\\res\\layout\\item_pager_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_text_edit_overlay.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\qupai_text_edit_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_layout_overlay_font_download.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\qupai_layout_overlay_font_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_diy_play.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\balloon_tip_qupai_diy_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_recorder_center_top.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\balloon_tip_qupai_recorder_center_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\import_photo_texture_view.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\import_photo_texture_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_comment.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\src\\main\\res\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_textcolor.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\item_qupai_textcolor.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_diy_timeline_right.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\balloon_tip_qupai_diy_timeline_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_font_effect.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\item_qupai_font_effect.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_diy_timeline_middle.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\balloon_tip_qupai_diy_timeline_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\layout_progress_recyclerview.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\8d4d211e1fe3c4737457bda41de3072ae8f01f27\\output\\res\\layout\\layout_progress_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_gallery_dir.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\item_qupai_gallery_dir.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\layout_editview.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\src\\main\\res\\layout\\layout_editview.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_edit_overlay_guide.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\qupai_edit_overlay_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\qupai_edittext_overlay.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\qupai_edittext_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\layout_main_titlebar.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\src\\main\\res\\layout\\layout_main_titlebar.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\item_qupai_editor_diyoverlay_category.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\item_qupai_editor_diyoverlay_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\res\\merged\\debug\\layout\\balloon_tip_qupai_overlay_manage_right.xml",
+        "source": "C:\\Users\\jiang_yan\\.android\\build-cache\\e6e551489dd15495810aa8b8ed3f7c3f0b221e2c\\output\\res\\layout\\balloon_tip_qupai_overlay_manage_right.xml"
+    }
+]

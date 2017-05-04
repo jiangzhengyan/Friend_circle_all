@@ -1,0 +1,7 @@
+#Thu Apr 20 15:23:23 CST 2017
+base.0=C\:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_850be9f9d2d70a811cae18ba8b16d1b9ca0a499f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\universal-image-loader-1.9.3_84dbb0914d5663e5962be973e1960f948203ea0a\\classes.dex
+base.1=C\:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\universal-image-loader-1.9.3_84dbb0914d5663e5962be973e1960f948203ea0a
+file.0=C\:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_850be9f9d2d70a811cae18ba8b16d1b9ca0a499f\\classes.dex

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle\\app\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_detail_fragment.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle\\app\\src\\main\\res\\layout\\image_detail_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_detail_pager.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle\\app\\src\\main\\res\\layout\\image_detail_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle\\app\\src\\main\\res\\layout\\item_gridview.xml"
+    }
+]

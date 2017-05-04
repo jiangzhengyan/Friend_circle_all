@@ -1,0 +1,24 @@
+# view AndroidManifest.xml #generated:107
+-keep class com.duanqu.qupai.DraftsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:73
+-keep class com.duanqu.qupai.MediaServer { <init>(...); }
+
+# view AndroidManifest.xml #generated:95
+-keep class com.duanqu.qupai.PhotoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:83
+-keep class com.duanqu.qupai.VideoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:60
+-keep class com.duanqu.qupai.trim.VideoFileActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:66
+-keep class com.duanqu.qupai.trim.VideoGalleryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class com.duanqu.qupai.trim.VideoTrimActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:77
+-keep class com.duanqu.qupai.ui.render.RenderProgressActivity { <init>(...); }
+
