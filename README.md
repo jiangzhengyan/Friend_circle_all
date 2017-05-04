@@ -16,8 +16,8 @@
 ![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/MixShow.gif)
 #  项目 friend_circle_2
 带发布视频,趣拍
-![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/friend_circle_2.png)#
+![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/friend_circle_2.png)
 
-项目 friend_circle_3
+# 项目 friend_circle_3
 挺好用的
 ![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/friend_circle_3.png)
