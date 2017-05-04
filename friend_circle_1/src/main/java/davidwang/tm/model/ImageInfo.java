@@ -3,7 +3,7 @@ package davidwang.tm.model;
 import java.io.Serializable;
 
 /**
- * Created by DavidWang on 15/8/31.
+ * Created by jzy on 15/8/31.
  */
 public class ImageInfo implements Serializable {
 

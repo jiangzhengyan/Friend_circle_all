@@ -12,7 +12,7 @@ import davidwang.tm.dwcorephoto.R;
 import davidwang.tm.model.MainInfo;
 
 /**
- * Created by DavidWang on 15/8/25.
+ * Created by jzy on 15/8/25.
  */
 public class MainListAdapter extends BaseAdapter{
 

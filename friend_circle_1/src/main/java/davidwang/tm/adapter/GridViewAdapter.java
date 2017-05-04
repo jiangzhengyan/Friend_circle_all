@@ -19,7 +19,7 @@ import davidwang.tm.model.ImageInfo;
 import davidwang.tm.tools.ImageLoaders;
 
 /**
- * Created by DavidWang on 15/9/6.
+ * Created by jzy on 15/9/6.
  */
 public class GridViewAdapter extends BaseAdapter{
 

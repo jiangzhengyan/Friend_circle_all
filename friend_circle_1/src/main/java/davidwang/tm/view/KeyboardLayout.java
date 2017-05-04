@@ -6,7 +6,7 @@ import android.util.Log;
 import android.widget.RelativeLayout;
 
 /**
- * Created by DavidWang on 15/12/24.
+ * Created by jzy on 15/12/24.
  */
 public class KeyboardLayout extends RelativeLayout {
     private static final String TAG = KeyboardLayout.class.getSimpleName();

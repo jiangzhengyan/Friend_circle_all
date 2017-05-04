@@ -28,7 +28,7 @@ import davidwang.tm.model.Mixinfo;
 import davidwang.tm.tools.ImageLoaders;
 
 /**
- * Created by DavidWang on 15/10/8.
+ * Created by jzy on 15/10/8.
  */
 public class MixListAdapter extends BaseAdapter {
 

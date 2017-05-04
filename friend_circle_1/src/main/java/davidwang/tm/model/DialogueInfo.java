@@ -1,7 +1,7 @@
 package davidwang.tm.model;
 
 /**
- * Created by DavidWang on 16/4/28.
+ * Created by jzy on 16/4/28.
  */
 public class DialogueInfo {
 

@@ -30,7 +30,7 @@ import davidwang.tm.model.ImageInfo;
 import davidwang.tm.tools.ImageLoaders;
 
 /**
- * Created by DavidWang on 15/8/31.
+ * Created by jzy on 15/8/31.
  */
 public class BaseActivity extends AppCompatActivity {
 

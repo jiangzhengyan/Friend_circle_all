@@ -18,7 +18,7 @@ import davidwang.tm.model.ImageInfo;
 import davidwang.tm.tools.ImageLoaders;
 
 /**
- * Created by DavidWang on 15/9/2.
+ * Created by jzy on 15/9/2.
  */
 public class ListViewAdapter extends BaseAdapter{
 

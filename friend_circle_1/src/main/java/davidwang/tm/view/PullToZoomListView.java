@@ -18,7 +18,7 @@ import davidwang.tm.dwcorephoto.R;
 import davidwang.tm.tools.ImageLoaders;
 
 /**
- * Created by DavidWang on 15/10/8.
+ * Created by jzy on 15/10/8.
  */
 public class PullToZoomListView extends ListView implements
 		AbsListView.OnScrollListener {
