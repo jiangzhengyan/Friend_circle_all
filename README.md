@@ -12,9 +12,9 @@
  
 # 效果图，单张点击
 
-![]<img width="666"  src="https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/SingleShow.gif"/>
+<img width="333"  src="https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/SingleShow.gif"/>
 
-![11](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/SingleShow.gif)
+![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/SingleShow.gif)
 # 列表图，单张点击
 ![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/ListShow.gif)
 # 网格图，单张点击
