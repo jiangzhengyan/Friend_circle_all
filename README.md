@@ -1,5 +1,5 @@
 
-## 一些关于图片浏览和类似朋友圈的项目整理
+# 一些关于图片浏览和类似朋友圈的项目整理
 
 #  项目 friend_circle_1
 1.图片浏览放大缩小。<br />
@@ -8,7 +8,8 @@
 4.网格图片点击，放大效果，和缩放效果。<br />
 5.增加列表混合布局<br />
 6.加入缩略图和原图加载过程--> 加入高清图变量hdimg。
- https://github.com/jiangzhengyan/Friend_circle_all.git
+ 
+ 
 # 效果图，单张点击
 ![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/SingleShow.gif)
 # 列表图，单张点击
@@ -18,30 +19,36 @@
 # 混合图，单张点击
 ![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/MixShow.gif)
 #  项目 friend_circle_2
-带发布视频,趣拍<br />
+##带发布视频,趣拍<br />
+
 ![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/friend_circle_2.png)
 
 # 项目 friend_circle_3
-挺好用的<br />
+##挺好用的<br />
+
 ![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/friend_circle_3.png)
 
 # 项目 f_scale_album_4
-可以当做相册,GridView展示,点击可查看大图<br />
+##可以当做相册,GridView展示,点击可查看大图<br />
+
 ![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/f_album_4.png)
 
 # 项目 f_scale_album_4_1
-可以当做相册,GridView展示,点击可查看大图<br />
+##可以当做相册,GridView展示,点击可查看大图<br />
+
 ![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/f_album_4_1.png)
 
 # 项目 f_pager_view_5
-viewPager  可以具体查看图片<br />
+##viewPager  可以具体查看图片<br />
+
 ![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/f_pager_view_5.png)
 
 # 项目 f_pager_view_6
-viewPager  可以具体查看图片<br />
+##viewPager  可以具体查看图片<br />
+
 ![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/f_pager_view_6.png)
 
 # 项目 f_pager_view_7
-viewPager  可以具体查看图片<br />
+##viewPager  可以具体查看图片<br />
 
 ![](https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/f_pager_view_7.png)
