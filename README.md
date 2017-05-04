@@ -52,7 +52,7 @@
 ## viewPager  可以具体查看图片<br />
 
 <img width="300"  src="https://raw.githubusercontent.com/jiangzhengyan/Friend_circle_all/master/f_pager_view_6.png"/>
-
+ 
 # 8,项目 f_pager_view_7
 ## viewPager  可以具体查看图片<br />
 
