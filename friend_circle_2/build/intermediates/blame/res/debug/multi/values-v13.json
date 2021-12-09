@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "D:\\work_space_studio\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\values-v13\\values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
         "map": [
             {

@@ -1,5 +1,90 @@
 [
     {
+        "outputFile": "D:\\work_space_studio\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\values-v12\\values-v12.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 474
+                },
+                "from": {
+                    "file": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\values-v12\\values-v12.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 479,
+                    "endColumn": 118,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\values-v12\\values-v12.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 479,
+                        "endColumn": 118,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endColumn": 94,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "C:\\Users\\jiang_yan\\.android\\build-cache\\214a52891b751ab41bf50485f28278552ab77efe\\output\\res\\values-v12\\values-v12.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 598,
+                        "endColumn": 94,
+                        "endOffset": 688
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\jiang_yan\\Desktop\\Picture\\Friend_circle_all\\friend_circle_2\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
         "map": [
             {
