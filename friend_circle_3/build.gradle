@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 19
-    buildToolsVersion "25.0.2"
+    compileSdkVersion 29
+
 
     defaultConfig {
         applicationId "com.example.imagedemo"
-        minSdkVersion 14
-        targetSdkVersion 18
+        minSdkVersion 21
+        targetSdkVersion 29
     }
 
     buildTypes {
@@ -19,6 +19,6 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:19.1.0'
+    compile 'androidx.legacy:legacy-support-v4:1.0.0'
     compile files('libs/universal-image-loader-1.9.3.jar')
 }

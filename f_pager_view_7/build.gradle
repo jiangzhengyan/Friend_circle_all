@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 18
-    buildToolsVersion "25.0.0"
+    compileSdkVersion 29
+
 
     defaultConfig {
         applicationId "com.loveplusplus.demo.image"
-        minSdkVersion 8
-        targetSdkVersion 18
+        minSdkVersion 21
+        targetSdkVersion 29
     }
 
     buildTypes {
@@ -19,6 +19,6 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:18.+'
+    compile 'androidx.legacy:legacy-support-v4:1.0.0'
     compile files('libs/universal-image-loader-1.8.6.jar')
 }

@@ -1,7 +1,7 @@
 package davidwang.tm.dwcorephoto;
 
 import android.os.Bundle;
-import android.support.v4.view.MotionEventCompat;
+import androidx.core.view.MotionEventCompat;
 import android.util.Log;
 import android.view.MenuItem;
 import android.view.MotionEvent;

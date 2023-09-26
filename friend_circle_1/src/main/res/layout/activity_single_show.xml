@@ -9,7 +9,7 @@
     android:background="@android:color/white"
     tools:context="davidwang.tm.dwcorephoto.SingleShow">
 
-    <android.support.v7.widget.Toolbar
+    <androidx.appcompat.widget.Toolbar
         android:id="@+id/id_toolbar"
         android:layout_height="wrap_content"
         android:layout_width="match_parent"

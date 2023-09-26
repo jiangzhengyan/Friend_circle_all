@@ -17,12 +17,6 @@
 package com.viewpagerindicator;
 
 import com.loveplusplus.demo.image.R;
-import com.loveplusplus.demo.image.R.attr;
-import com.loveplusplus.demo.image.R.bool;
-import com.loveplusplus.demo.image.R.color;
-import com.loveplusplus.demo.image.R.dimen;
-import com.loveplusplus.demo.image.R.integer;
-import com.loveplusplus.demo.image.R.styleable;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -33,8 +27,8 @@ import android.graphics.Paint.Style;
 import android.graphics.drawable.Drawable;
 import android.os.Parcel;
 import android.os.Parcelable;
-import android.support.v4.view.MotionEventCompat;
-import android.support.v4.view.ViewConfigurationCompat;
+import androidx.core.view.MotionEventCompat;
+import androidx.core.view.ViewConfigurationCompat;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;

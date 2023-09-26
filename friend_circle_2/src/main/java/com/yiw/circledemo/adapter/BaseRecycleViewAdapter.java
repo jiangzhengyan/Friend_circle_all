@@ -1,6 +1,6 @@
 package com.yiw.circledemo.adapter;
 
-import android.support.v7.widget.RecyclerView;
+import androidx.recyclerview.widget.RecyclerView;
 
 import com.yiw.circledemo.listener.RecycleViewItemListener;
 

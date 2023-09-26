@@ -1,20 +1,19 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 22
-    buildToolsVersion '25.0.0'
+    compileSdkVersion 29
 
+
+    defaultConfig {
+        applicationId "davidwang.tm.dwcorephoto"
+        minSdkVersion 21
+        targetSdkVersion 29
+        versionCode 1
+        versionName "1.0"
+    }
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_7
         targetCompatibility JavaVersion.VERSION_1_7
-    }
-
-    defaultConfig {
-        minSdkVersion 15
-        applicationId "davidwang.tm.dwcorephoto"
-        targetSdkVersion 22
-        versionCode 1
-        versionName "1.0"
     }
     buildTypes {
         release {
@@ -26,7 +25,7 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile 'com.android.support:appcompat-v7:22.2.1'
+    compile 'androidx.appcompat:appcompat:1.0.0'
     compile 'com.github.chrisbanes.photoview:library:1.2.3'
     compile 'com.facebook.rebound:rebound:0.3.8'
     compile 'com.nineoldandroids:library:2.4.0'

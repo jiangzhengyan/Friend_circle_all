@@ -1,12 +1,9 @@
 package com.blocker.photo;
 
-import com.blocker.photo.ImageAdapter.SamplePagerAdapter;
-
 import android.content.Context;
-import android.support.v4.view.ViewPager;
+import androidx.viewpager.widget.ViewPager;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
-import android.view.ViewGroup;
 
 /**
  * Hacky fix for Issue #4 and

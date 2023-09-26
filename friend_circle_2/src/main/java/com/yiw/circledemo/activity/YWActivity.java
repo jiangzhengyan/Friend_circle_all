@@ -3,7 +3,7 @@ package com.yiw.circledemo.activity;
 import android.graphics.drawable.Drawable;
 import android.os.Build;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.Window;
 import android.view.WindowManager;
 
